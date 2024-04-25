@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PerrineBauer
+- 🌱 I’m working in French statistics National Institute (Insee)
+- 📫 I'm data analyst and Project Manager
+- 😄 I live in Nantes, in Western France
